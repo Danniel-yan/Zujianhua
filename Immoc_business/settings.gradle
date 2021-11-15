@@ -1,0 +1,5 @@
+rootProject.name = "Immoc_business"
+include ':app'
+include ':immoc_voice'
+include ':lib_audio'
+include ':lib_video'
