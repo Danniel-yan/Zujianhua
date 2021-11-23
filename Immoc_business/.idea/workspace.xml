@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f581e97-41ee-4b17-99fd-6d0ba0021e02" name="Default Changelist" comment="maven私服搭建、gradle常量抽离">
-      <change afterPath="$PROJECT_DIR$/../.idea/Zujianhua.iml" afterDir="false" />
-    </list>
+    <list default="true" id="9f581e97-41ee-4b17-99fd-6d0ba0021e02" name="Default Changelist" comment="maven私服搭建、gradle常量抽离" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +33,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Immoc_business" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Rebase.Settings">
     <option name="NEW_BASE" value="master" />
@@ -296,11 +311,11 @@
     </state>
     <state x="316" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.820/1440.23.1366.745@0.23.1440.820" timestamp="1637624372641" />
     <state x="316" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.820@0.23.1440.820" timestamp="1637678466259" />
-    <state x="518" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637672526300">
+    <state x="518" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637679754916">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
     <state x="518" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.820/1440.23.1366.745@0.23.1440.820" timestamp="1637623265125" />
-    <state x="518" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.820@0.23.1440.820" timestamp="1637672526300" />
+    <state x="518" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.820@0.23.1440.820" timestamp="1637679754916" />
     <state x="460" y="329" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1637679076433">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
