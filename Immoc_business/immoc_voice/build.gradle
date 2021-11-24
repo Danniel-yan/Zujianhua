@@ -5,7 +5,7 @@ plugins {
 
 android {
     compileSdkVersion this.rootProject.android.compileSdkVersion
-    buildToolsVersion "30.0.3"
+    buildToolsVersion this.rootProject.android.buildToolsVersion
 
     defaultConfig {
         applicationId this.rootProject.android.applicationId

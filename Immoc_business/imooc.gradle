@@ -2,23 +2,26 @@ ext {
 
     //  android部分用到的常量
     android = [
-            applicationId    : 'com.immoc_immoc_voice',
-            compileSdkVersion: 30,
-            minSdkVersion    : 23,
-            targetSdkVersion : 30,
-            versionCode      : 1,
-            versionName      : '1.0',
+            applicationId     : 'com.immoc_immoc_voice',
+            buildToolsVersion: "30.0.3",
+            compileSdkVersion : 30,
+            minSdkVersion     : 23,
+            targetSdkVersion  : 30,
+            versionCode       : 1,
+            versionName       : '1.0',
             multiDexEnabled   : true
 
     ]
 
     // 所有要依赖的第三方库版本号
     depsVersion = [
-            appcompat: '1.3.1'
+            appcompat     : '1.3.1',
+            magicindicator: '1.5.0'
     ]
 
     // 所有要依赖的第三方库地址
     depsLibs = [
-            appcompat: "androidx.appcompat:appcompat:${depsVersion.appcompat}"
+            appcompat     : "androidx.appcompat:appcompat:${depsVersion.appcompat}",
+            magicindicator: "com.github.hackware1993:MagicIndicator:${depsVersion.magicindicator}"
     ]
 }
