@@ -1,4 +1,4 @@
-package com.example.immoc_business
+package com.example.imooc_business
 
 import android.os.Bundle
 import androidx.fragment.app.FragmentActivity

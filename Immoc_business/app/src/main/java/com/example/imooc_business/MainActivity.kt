@@ -1,4 +1,4 @@
-package com.example.immoc_business
+package com.example.imooc_business
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

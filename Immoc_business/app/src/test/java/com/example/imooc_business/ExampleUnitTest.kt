@@ -1,4 +1,4 @@
-package com.example.immoc_business
+package com.example.imooc_business
 
 import org.junit.Test
 

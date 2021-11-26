@@ -1,4 +1,4 @@
-package com.example.immoc_business
+package com.example.imooc_business
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
